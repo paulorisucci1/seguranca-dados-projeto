@@ -1,0 +1,18 @@
+form {
+    border: 2px solid black;
+    border-radius:12px;
+    width: 50%;
+    padding: 20px;
+    background-color:#fffa86;
+}
+label {
+    color:brown;
+    font-weight:bold;
+}
+input {
+    border: 2px solid grey;
+    border-radius:12px;
+    padding: 5px;
+    margin: 10px;
+    outline:none;
+}
